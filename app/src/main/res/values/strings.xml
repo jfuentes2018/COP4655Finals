@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">COP4655 Final Project</string>
+    <string name="actrivity_1">Actrivity 1</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="sign_out">sign out</string>
+
+</resources>

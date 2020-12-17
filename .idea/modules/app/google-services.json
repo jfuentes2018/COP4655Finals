@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "74788692740",
+    "project_id": "switchactivities-318d1",
+    "storage_bucket": "switchactivities-318d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74788692740:android:2371270d757ab0e302e651",
+        "android_client_info": {
+          "package_name": "com.example.switchactivities"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74788692740-vmuqfe7dg4auvgalikf2s9jvfccufvuq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.switchactivities",
+            "certificate_hash": "c7f732a9c60d70619dfa511f8fb69168fbbcc6be"
+          }
+        },
+        {
+          "client_id": "74788692740-gmgh0pk2bfuo8h74pp9lkhu2jfn4uil9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo9LhPn0zv-_Lx9oyr1bndeAc02VU_4RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74788692740-gmgh0pk2bfuo8h74pp9lkhu2jfn4uil9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
